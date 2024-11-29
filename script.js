@@ -38,8 +38,7 @@ document
       audioEmbed.style.border = "none";
       audioDiv.appendChild(audioEmbed);
 
-      resultadoDiv.innerHTML =
-        "<p>¡Pesas más de 80 kg! Aquí está la canción:</p>";
+      resultadoDiv.innerHTML = "<p>No GORDAS, NO GORDAS, NO GORDAS.</p>";
     } else {
       resultadoDiv.innerHTML =
         "<p>Puedes seguir tranquilo, no pesas más de 80 kg.</p>";
